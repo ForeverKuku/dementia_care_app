@@ -1,0 +1,2 @@
+# dementia_care_app 
+The project scope includes the development of a Dementia Care Assistant  app with a user-friendly  interface, offering advanced features such as medication reminders, personalized care plan, book,calendar, direct or indirect call for emergencies and uploading files, images, and videos to firebase. Additional goals include integrating third-party API's such as Firebase for authentication, database, and storage capabilities. 
